@@ -79,8 +79,7 @@ public class Login {
 	
 		if(language.equals("english"))
 			clickLink("English (UK)");
-//		else if(language.equals("hindi"))
-//			clickLink("हिन्दी");
+
 	}
 	
 }
